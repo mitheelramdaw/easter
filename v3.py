@@ -3,12 +3,12 @@ import altair as alt
 import pandas as pd
 
 # --- Title and Balloons ---
-st.title("He is Risen! 🌅 Happy Easter 🐰🥚")
+st.title("He has Risen! ✝️ 🌅 Happy Easter 🐰🥚")
 st.markdown("As we celebrate Easter, let's remember the resurrection and the joy of new life! 🌸")
 st.balloons()
 
 # --- Resurrection Cross ---
-st.subheader("✝️ Resurrection Cross Chart ✝️")
+st.subheader("✝️ Resurrection Cross ✝️")
 
 # Thickness of the bars
 thickness = 0.16
